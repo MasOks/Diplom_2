@@ -1,0 +1,1 @@
+{"uuid": "87f1f8d2-990e-4f8e-bdef-473c85e0d10f", "children": ["48d57e9e-433d-4b0a-89d6-ca55892fc93e"], "befores": [{"name": "payload_user", "status": "passed", "steps": [{"name": "Создаём данные пользователя", "status": "passed", "start": 1719414743504, "stop": 1719414743549}], "start": 1719414743504, "stop": 1719414743549}], "start": 1719414743504, "stop": 1719414744523}
